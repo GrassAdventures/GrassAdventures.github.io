@@ -1,4 +1,4 @@
-alert('Instructions: Move the cat with the arrow keys. Earn points by visiting targets before the dog visits them.  The motion of the dog can be changed by clicking the Change Dog Motion button.');
+alert('Instructions: Move the cat with the arrow keys. Earn points by visiting targets before the dog visits them.  The motion of the dog can be changed by clicking the Change Dog Motion button.  A new game can be started by clicking on Change Dog Motion.');
 //Get the canvas readya
 var canvas = document.getElementById('canvas');
 var ctx = canvas.getContext('2d'); 
