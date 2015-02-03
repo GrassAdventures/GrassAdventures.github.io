@@ -209,7 +209,7 @@ function getNumTargetsVisited(target_list) {
 
 
 
-var Mittens_obj = new image_object('Mittens.jpg',0.1,[100,100],[50,75]);
+var Mittens_obj = new image_object('Mittens.png',0.1,[100,100],[50,75]);
 var Sunny_obj = new image_object('Sunny_Snow.png',0.1,[300,300],[150,125]);
 
 //Read in other object with which collisions will occur and store in array
